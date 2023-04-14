@@ -1,7 +1,10 @@
 <div align="center">
 <h1 align="center">Hello, I am Pedro Aguilar Fernández 👋</h1>
 </div>
-<img src="https://i.imgur.com/XgaDPoc.png" height="450">
+
+<center>
+<img src="https://i.imgur.com/XgaDPoc.png" height="250">
+</center>
 
 ## About Me
 
