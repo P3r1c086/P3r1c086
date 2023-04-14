@@ -2,9 +2,11 @@
 <h1 align="center">Hello, I am Pedro Aguilar Fernández 👋</h1>
 </div>
 
-<center>
+<div align="center">
 <img src="https://i.imgur.com/XgaDPoc.png" height="250">
-</center>
+<img src="https://i.imgur.com/5UgRaQv.png" height="250">
+<img src="https://i.imgur.com/cfVGIA8.png" height="250">
+</div>
 
 ## About Me
 
