@@ -1,13 +1,13 @@
 <div align="center">
 <h1 align="center">Hello, I am Pedro Aguilar Fernández 👋</h1>
 </div>
-<img src="https://i.imgur.com/XgaDPoc.png">
+<img src="https://i.imgur.com/XgaDPoc.png" height="450">
 
 ## About Me
 
 - 📲 Mobile developer
-- 🎥 Looking for my first job
-- ✏️ I am fascinated with the world of Kotlin
+- 📫 Looking for my first job
+- ⚡ I am fascinated with the world of Kotlin
 
 <br>
 
@@ -17,17 +17,17 @@
 
 <br>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)]
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 <br>
 
 <div align="center">
-<h3 align="center">Data Bases</h3>
+<h3 align="start">Data Bases</h3>
 </div>
 
 <br>
 
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)] [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)] [![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)] [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)] [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)] 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 
 <br>
 
@@ -40,7 +40,7 @@
 <a href="https://github.com/P3r1c086/Andarivel" target="_blank"><img src="https://i.imgur.com/Eb1yyDb.png" width="400" alt="Signing in at Work"></a>
 <p>
 <a href="https://github.com/P3r1c086/Andarivel" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
 </p>
 <p>App designed to keep track of employees' hours. In addition, it allows you to request an <strong>absence</strong> or create events with <strong>Google Calendar</strong> among other functions.
 <br>
