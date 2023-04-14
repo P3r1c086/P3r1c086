@@ -49,7 +49,7 @@
 </p>
 <p>App designed to keep track of employees' hours. In addition, it allows you to request an <strong>absence</strong> or create events with <strong>Google Calendar</strong> among other functions.
 <br>
-<strong>Designed with MVP and Firebase.</strong>
+<strong>Designed with Java, MVP and Firebase.</strong>
 </p>
 </div>
                                                                                       
@@ -67,7 +67,7 @@
 </p>
 </p>This app is intended to show information about characters, comics and Marvel series.</p>
 <br>
-<strong>Designed with MVVM, Marvel API and Retrofit.</strong>
+<strong>Designed with Kotlin, MVVM, Marvel API and Retrofit.</strong>
 </div>                                                             
 </table>                                                                                 
 </div>
