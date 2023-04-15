@@ -2,17 +2,12 @@
 <h1 align="center">Hello, I am Pedro Aguilar Fernández 👋</h1>
 </div>
 
-<div align="center">
-<img src="https://i.imgur.com/XgaDPoc.png" height="250">
-<img src="https://i.imgur.com/5UgRaQv.png" height="250">
-<img src="https://i.imgur.com/cfVGIA8.png" height="250">
-</div>
-
 ## About Me
 
 - 📲 Mobile developer
-- 📫 Looking for my first job
 - ⚡ I am fascinated with the world of Kotlin
+- 📫 Contact me at pajaros33@gmail.com
+- 💬 https://www.linkedin.com/in/pedro-aguilar-fern%C3%A1ndez-167753140/
 
 <br>
 
@@ -57,17 +52,17 @@
 
 <td width="50%">
                <br>
-<h3 align="center">App Marvel</h3>
+<h3 align="center">Descúbrelo</h3>
 <div align="center">                                       
-<a href="https://github.com/P3r1c086/Marvel" target="_blank"><img src="https://i.imgur.com/sFl1tfw.jpg" width="400" alt="App Marvel"></a>
+<a href="https://github.com/P3r1c086/Descubrelo" target="_blank"><img src="https://i.imgur.com/OI20JIw.png" width="400" alt="App Descúbrelo"></a>
 <br>
 <p>
-<a href="https://github.com/P3r1c086/Marvel" target="_blank">
+<a href="https://github.com/P3r1c086/Descubrelo" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
 </p>
-</p>This app is intended to show information about characters, comics and Marvel series.</p>
+</p>This app allows you to have a virtual friend in Granada, who knows the best plans and places that tourists would never know for themselves. Project in development at the moment</p>
 <br>
-<strong>Designed with Kotlin, MVVM, Marvel API and Retrofit.</strong>
+<strong>Designed with Kotlin, MVVM, Firebase.</strong>
 </div>                                                             
 </table>                                                                                 
 </div>
