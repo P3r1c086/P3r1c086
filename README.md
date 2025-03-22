@@ -4,9 +4,9 @@
 
 ## About Me
 
-- 📲 Mobile developer
-- ⚡ I am fascinated with the world of Kotlin
-- 📫 Contact me at pajaros33@gmail.com
+- 📲 Mobile developer  
+- ⚡ I am fascinated with the world of **Kotlin** and **Artificial Intelligence development**
+- 📫 Contact me at pajaros33@gmail.com  
 - 💬 https://www.linkedin.com/in/pedro-aguilar-fern%C3%A1ndez-167753140/
 
 <br>
@@ -35,6 +35,23 @@
 <table>
 <tr>
 <td width="50%">
+<h3 align="center">🚀 Space Explorer (NASA)</h3>
+<div align="center">
+<a href="https://github.com/P3r1c086/SpaceExplorerAC" target="_blank"><img src="https://i.imgur.com/Wj5nVp6.png" width="400" alt="Space Explorer App"></a>
+<p>
+<a href="https://github.com/P3r1c086/SpaceExplorerAC" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
+</p>
+<p>App that connects with NASA APIs to display astronomical images, Mars rover photos, and notifications. Users can explore, save favorites, and view content in a modern, fluid interface.
+<br><br>
+<strong>Technologies:</strong> Kotlin, Room, Retrofit, Coroutines, StateFlow, Navigation Component  
+<br>
+<strong>Architecture:</strong> Clean Architecture (data, domain, presentation, framework, use cases), MVVM, Repository Pattern, Dependency Injection with Hilt, SOLID principles, Modularization
+</p>
+</div>
+</td>
+
+<td width="50%">
 <h3 align="center">Signing in at Work</h3>
 <div align="center">
 <a href="https://github.com/P3r1c086/Andarivel" target="_blank"><img src="https://i.imgur.com/Eb1yyDb.png" width="400" alt="Signing in at Work"></a>
@@ -47,25 +64,30 @@
 <strong>Designed with Java, MVP and Firebase.</strong>
 </p>
 </div>
-                                                                                      
 </td>
+</tr>
 
+<tr>
 <td width="50%">
-               <br>
-<h3 align="center">Descúbrelo</h3>
+<h3 align="center">🤖 Meeting Point <span style="font-size:14px;">(in development)</span></h3>
 <div align="center">                                       
-<a href="https://github.com/P3r1c086/Descubrelo" target="_blank"><img src="https://i.imgur.com/OI20JIw.png" width="400" alt="App Descúbrelo"></a>
-<br>
+<a href="https://github.com/P3r1c086/MeetingPoint" target="_blank"><img src="https://i.imgur.com/T2poad8.png" width="400" alt="Meeting Point"></a>
 <p>
-<a href="https://github.com/P3r1c086/Descubrelo" target="_blank">
+<a href="https://github.com/P3r1c086/MeetingPoint" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
 </p>
-</p>This app allows you to have a virtual friend in Granada, who knows the best plans and places that tourists would never know for themselves. Project in development at the moment</p>
+<p><em><strong>Currently in development</strong></em> – Meeting Point is a collaborative app where users can create group meetings and share real-time locations.  
+It also integrates artificial intelligence to provide <strong>personalized place suggestions</strong> based on group preferences and meeting context.
+<br><br>
+<strong>Technologies:</strong> Kotlin, Jetpack Compose, Room, Coroutines, StateFlow, Firebase, Google Maps & Places  
 <br>
-<strong>Designed with Kotlin, MVVM, Firebase.</strong>
+<strong>Architecture:</strong> Clean Architecture (data, domain, presentation, framework, use cases), MVVM, Repository Pattern, Dependency Injection with Hilt, SOLID principles, Modularization
+</p>
 </div>                                                             
+</td>
+</tr>
 </table>                                                                                 
-</div>
+
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
