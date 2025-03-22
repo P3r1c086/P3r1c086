@@ -32,61 +32,74 @@
 <br>
 
 ## Featured Projects
+
 <table>
-<tr>
-<td width="50%">
-<h3 align="center">🚀 Space Explorer (NASA)</h3>
-<div align="center">
-<a href="https://github.com/P3r1c086/SpaceExplorerAC" target="_blank"><img src="https://i.imgur.com/Wj5nVp6.png" width="400" alt="Space Explorer App"></a>
-<p>
-<a href="https://github.com/P3r1c086/SpaceExplorerAC" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
-</p>
-<p>App that connects with NASA APIs to display astronomical images, Mars rover photos, and notifications. Users can explore, save favorites, and view content in a modern, fluid interface.
-<br><br>
-<strong>Technologies:</strong> Kotlin, Room, Retrofit, Coroutines, StateFlow, Navigation Component  
-<br>
-<strong>Architecture:</strong> Clean Architecture (data, domain, presentation, framework, use cases), MVVM, Repository Pattern, Dependency Injection with Hilt, SOLID principles, Modularization
-</p>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">Signing in at Work</h3>
-<div align="center">
-<a href="https://github.com/P3r1c086/Andarivel" target="_blank"><img src="https://i.imgur.com/Eb1yyDb.png" width="400" alt="Signing in at Work"></a>
-<p>
-<a href="https://github.com/P3r1c086/Andarivel" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
-</p>
-<p>App designed to keep track of employees' hours. In addition, it allows you to request an <strong>absence</strong> or create events with <strong>Google Calendar</strong> among other functions.
-<br>
-<strong>Designed with Java, MVP and Firebase.</strong>
-</p>
-</div>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<h3 align="center">🤖 Meeting Point <span style="font-size:14px;">(in development)</span></h3>
-<div align="center">                                       
-<a href="https://github.com/P3r1c086/MeetingPoint" target="_blank"><img src="https://i.imgur.com/T2poad8.png" width="400" alt="Meeting Point"></a>
-<p>
-<a href="https://github.com/P3r1c086/MeetingPoint" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
-</p>
-<p><em><strong>Currently in development</strong></em> – Meeting Point is a collaborative app where users can create group meetings and share real-time locations.  
-It also integrates artificial intelligence to provide <strong>personalized place suggestions</strong> based on group preferences and meeting context.
-<br><br>
-<strong>Technologies:</strong> Kotlin, Jetpack Compose, Room, Coroutines, StateFlow, Firebase, Google Maps & Places  
-<br>
-<strong>Architecture:</strong> Clean Architecture (data, domain, presentation, framework, use cases), MVVM, Repository Pattern, Dependency Injection with Hilt, SOLID principles, Modularization
-</p>
-</div>                                                             
-</td>
-</tr>
-</table>                                                                                 
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚀 Space Explorer (NASA)</h3>
+      <div align="center">
+        <a href="https://github.com/P3r1c086/SpaceExplorerAC" target="_blank">
+          <img src="https://i.imgur.com/Wj5nVp6.png" width="400" alt="Space Explorer App">
+        </a>
+        <p>
+          <a href="https://github.com/P3r1c086/SpaceExplorerAC" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>
+          App that connects with NASA APIs to display astronomical images, Mars rover photos, and notifications.
+          Users can explore, save favorites, and view content in a modern, fluid interface.
+          <br><br>
+          <strong>Technologies:</strong> Kotlin, Room, Retrofit, Coroutines, StateFlow, Navigation Component  
+          <br>
+          <strong>Architecture:</strong> Clean Architecture (data, domain, presentation, framework, use cases), MVVM, Repository Pattern, Dependency Injection with Hilt, SOLID principles, Modularization
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🤖 Meeting Point <span style="font-size:14px;">(in development)</span></h3>
+      <div align="center">
+        <a href="https://github.com/P3r1c086/MeetingPoint" target="_blank">
+          <img src="https://i.imgur.com/T2poad8.png" width="400" alt="Meeting Point">
+        </a>
+        <p>
+          <a href="https://github.com/P3r1c086/MeetingPoint" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>
+          <em><strong>Currently in development</strong></em> – Meeting Point is a collaborative app where users can create group meetings and share real-time locations.  
+          It also integrates artificial intelligence to provide <strong>personalized place suggestions</strong> based on group preferences and meeting context.
+          <br><br>
+          <strong>Technologies:</strong> Kotlin, Jetpack Compose, Room, Retrofit, Coroutines, StateFlow, Firebase, Google Maps & Places  
+          <br>
+          <strong>Architecture:</strong> Clean Architecture (data, domain, presentation, framework, use cases), MVVM, Repository Pattern, Dependency Injection with Hilt, SOLID principles, Modularization
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center">🕒 Signing in at Work</h3>
+      <div align="center">
+        <a href="https://github.com/P3r1c086/Andarivel" target="_blank">
+          <img src="https://i.imgur.com/Eb1yyDb.png" width="400" alt="Signing in at Work">
+        </a>
+        <p>
+          <a href="https://github.com/P3r1c086/Andarivel" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>
+          App designed to keep track of employees' hours. In addition, it allows you to request an <strong>absence</strong> or create events with <strong>Google Calendar</strong> among other functions.
+          <br><br>
+          <strong>Designed with Java, MVP and Firebase.</strong>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+                                                                           
 
 <br>
 
